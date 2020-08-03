@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name":"Hollie Mansfield",
+    "occupation":"Risk & Compliance Analyst looking for opportunities in Tech.",
+    "description":"Looking for an exciting opportunity to challenge myself in a programming capacity",
+    "image":"header-background.jpg",
+    "bio":"I am a determined person with strong empathetic, organisational and communication skills. I am currently employed at Monzo within the second line of defence as a Risk & Compliance Analyst. I am critical of my own progress while consistently driving to learn more, most recently challenging myself to expand my technical knowledge in SQL, Python3 and React, and completed my ICA certificate in AML, passing with distinction. I was born in Northern Ireland but grew up travelling; spending the bulk of my childhood in Kenya, East Africa. Whilst travelling, I was able to widen my outlook on life, develop my cross-cultural competencies and adaptibility. This also developed a large passion for animal conservation and illegal wildlife trafficking.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "holliemansfield@gmail.com",
+    "phone": "+44 7375459715",
+    "address":{
+      "street":"Royal Arsenal Woolwich",
+      "city":"London",
+      "zip": "SE18"
+    },
+    "website": "http://www.holliemansfield.github.io/react-resume-template/",
+    "resumedownload":"http://holliemansfield.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/holliemansfield/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/hollie_mansfield",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/holliemansfield",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"A driven graduate with a passion for learning and challenging myself.",
+    "education":[
+      {
+        "school":"University of Lincoln",
+        "degree":"BA (Hons) Business Studies",
+        "grade": "1st Class Honours",
+        "graduated":"Sept 2014",
+        "description":"Three years of study in Business Studies, with a professional placement year.",
+        "level one": "Contemporary Business Analysis, Analysis of Business Data, Financial Communications, Organisational Behaviour,  Principles of Marketing, and Introduction to Business Law.",
+        "level two": "Operations Management, Contemporary Issues for Business, Management Finance, Critical HR Management, Buyer Behaviour & Market Research.",
+        "level three": "Professional Practice Placement Year (see experience)",
+        "level four": "Crisis & Disaster Management, Strategic Management, Business Project Management, Dissertation (What if? An exploration into the ethical and market-based implications and benefits of a legal rhinoceros horn trade.)"
+      },
+      {
+        "school":"De Aston School",
+        "degree":"A Levels",
+        "graduated":"June 2012",
+        "description":"Sociology (A), Drama and Theatre Studies (A), Photography (C)."
+      }
+    ],
+    "work":[
+      {
+        "company":"Monzo",
+        "title":"Risk & Compliance Analyst",
+        "years":"Aug 2020 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Monzo",
+        "title":"Financial Crime Specialist",
+        "years":"June 2018 - July 2020",
+        "description":"Working on in-depth investigations, reports and internal risk assessments for JMLIT cases, including the recommendation of changes to  existing controls to detect and prevent potential future exposure to identified threats. Liaising with Fincrime Engineers to develop and improve internal tooling. Providing onboarding, training, coaching and supplying actionable feedback for Financial Crime specialists. Reviewing Transaction Monitoring flags & providing feedback on the rate of false positives to improve the accuracy of transaction monitoring rules. Communicating with other financial organisations regarding fraudulent transactions. Writing and reviewing Suspicious Activity Reports (SARs). Resolving internal escalations to the Fincrime team. Reviewing and completing Requests For Information (RFI) from Law Enforcement, to assist them in the provision of required information for their investigations in a timely manner."
+      }
+    ],
+    "skills":[
+      {
+        "name":"SQL Course - Completed May 2020",
+        "level":"100%"
+      },
+      {
+        "name":"Python 3 Course- Completed June 2020",
+        "level":"65%"
+      },
+      {
+        "name":"JPMC Experience in Software Engineering - Completed June 2020 ",
+        "level":"100%"
+      },
+      {
+        "name":"React Course",
+        "level":"15%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"JPMC-tech-task-1-PY3",
+        "category":"JPMC Experience in Software Engineering",
+        "image":"JMPC.png",
+        "url":"https://github.com/holliemansfield/JPMC-tech-task-1-PY3"
+      },
+      {
+        "title":"JMPC-tech-task-2-PY3",
+        "category":"JPMC Experience in Software Engineering",
+        "image":"JMPC.png",
+        "url":"https://github.com/holliemansfield/JPMC-tech-task-2-PY3"
+      },
+      {
+        "title":"JPMC-tech-task-3-PY",
+        "category":"JPMC Experience in Software Engineering",
+        "image":"JMPC.jpg",
+        "url":"https://github.com/holliemansfield/JPMC-tech-task-3-PY3"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"hollies-resume.jpg",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
